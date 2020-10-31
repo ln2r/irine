@@ -1,0 +1,128 @@
+[
+	{
+		"region": "Gray Ruins",
+		"dungeons": [
+			"Typhoon Kim Nest (TKN)"
+		]
+	},
+	{
+		"region": "Anu Arandel",
+		"dungeons": [
+			"Sea of Sand Dust",
+			"Disappearing Half Moon Desert",
+			"Relic of Fog",
+			"Shadow Grave",
+			"Flame Canyon",
+			"Abyss of Heat",
+			"Watcher's Tower",
+			"Wailing Wall",
+			"Eye of Goddess",
+			"The Praying Heart",
+			"Volcano Nest",
+			"Guardian Nest",
+			"Mist Nest",
+			"Golden Meadow",
+			"Bronze Crescent Forest",
+			"Valley of Eclipse",
+			"Crossroad of Hesitant Past",
+			"Corridor of Tangled Memories",
+			"Passage of Broken Recollections",
+			"Swamp of Dead Night",
+			"Silver Crescent Training Ground",
+			"Forest of Waiting Noon"
+		]
+	},
+	{
+		"region": "Foothills of Black Mountain",
+		"dungeons": [
+			"Dark Overlord Keep",
+			"Fortress of the Dark Overlord Army",
+			"Dark Overlord Training Camp",
+			"Dark Overlord's Tower",
+			"Dark Mine",
+			"Collapsed Mine",
+			"Road to Death City",
+			"Gates to City of Death",
+			"Nameless Tyrant Tomb",
+			"Abandoned Welton Hollow",
+			"Dried Marissa Spring",
+			"Explosion Zone in Withered Leaves Forest",
+			"Ghost Town of Isolated Forest (Isolated Village)"
+		]
+	},
+	{
+		"region": "Hermalte Port",
+		"dungeons": [
+			"River Ruins",
+			"Flooded Downstream Ruins",
+			"Ruins of Lost Time",
+			"Forsaken Islet",
+			"Forsaken Islet Core",
+			"Sunken Cargo Vessel",
+			"Captain's Darlan Base",
+			"Serpenta Nest",
+			"Manticore Nest"
+		]
+	},
+	{
+		"region": "Riverwort Wharf",
+		"dungeons": [
+			"Tel Rosa City",
+			"Arnute Canyon",
+			"Occupied Ancient Temple",
+			"Jasmine Expedition Base",
+			"Ancient Treasure Warehouse (Ancient Vault)",
+			"Isla Native Village",
+			"Floating Island Beach", 
+			"Floating Island Core",
+			"Closed Ice Valley",
+			"Riverwort Village Ruins",
+			"Dragon Follower Base",
+			"Valley of Blindness",
+			"Queen's Garden",
+			"Miracle Altar Conservation Area",
+			"Madman's Laboratory",
+			"Intruder's Forward Base",
+			"Tel Noir Temple",
+			"Mutant's Habitat",
+			"Meteor Crash Site Boundaries",
+			"Shadow of Evil Spirits",
+			"Meteor Crash Site Core",
+			"Encroached Temple Ruins",
+			"Professor K Nest (PKN)",
+			"Archbishop Nest (ABN)",
+			"Ancient Library",
+			"East Ancient Armory",
+			"West Ancient Armory"
+		]
+	},
+	{
+		"region": "Merca's Heart",
+		"dungeons": [
+			"Wasteland Battlefield",
+			"Cradle of the Abandoned",
+			"Broken Goldstone Canyon",
+			"Blue Wind Plains",
+			"Tryan's Territory",
+			"Twisted Stream",
+			"Retrograde Highland",
+			"Chiron Beach",
+			"Abandoned Wharf",
+			"Phantom Forest Core",
+			"Ancient Chiron City",
+			"Secret Seabed Cave"
+		]
+	},
+	{
+		"region": "Rhadames",
+		"dungeons": [
+			"Cathedral Confessional",
+			"Dry Sand Swamp",
+			"Granom Nest",
+			"Daidalos Nest",
+			"Vulcanus Swamp",
+			"Red Waste",
+			"Black Lake"
+		]
+	}
+]

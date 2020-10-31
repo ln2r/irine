@@ -1,0 +1,9 @@
+# vs code
+*.code-workspace
+
+# config
+config.json
+
+# node stuff
+node_modules
+package-lock.json

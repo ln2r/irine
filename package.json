@@ -1,0 +1,17 @@
+{
+  "name": "irine",
+  "version": "1.0.0",
+  "description": "Simple DragonNest quest board tracker.",
+  "main": "index.js",
+  "keywords": [
+    "dragon nest",
+    "discord",
+    "discord.js"
+  ],
+  "author": "ln2r",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js-commando": "github:discordjs/Commando",
+    "discord.js": "^12.3.1"
+  }
+}
